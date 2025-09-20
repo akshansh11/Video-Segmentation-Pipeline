@@ -40,7 +40,7 @@ pip install opencv-python numpy
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/video-segmentation-pipeline.git
+   git clone https://github.com/akshansh11/video-segmentation-pipeline.git
    cd video-segmentation-pipeline
    ```
 
