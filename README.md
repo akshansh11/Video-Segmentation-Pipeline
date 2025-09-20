@@ -258,15 +258,15 @@ If you use this pipeline in your research, please cite:
 ```bibtex
 @software{video_segmentation_pipeline,
   title={Video Segmentation Pipeline},
-  author={Your Name},
+  author={Akshansh Mishra},
   year={2025},
-  url={https://github.com/yourusername/video-segmentation-pipeline}
+  url={https://github.com/akshansh11/video-segmentation-pipeline}
 }
 ```
 
 ## Contact
 
-- **Author:** Your Name
-- **Email:** your.email@example.com
-- **GitHub:** [@yourusername](https://github.com/yourusername)
-- **Issues:** [GitHub Issues](https://github.com/yourusername/video-segmentation-pipeline/issues)
+- **Author:** Akshansh Mishra
+- **Email:** akshansh@aifablab.com
+- **GitHub:** [@yourusername](https://github.com/akshansh11)
+- **Issues:** [GitHub Issues](https://github.com/akshansh11/video-segmentation-pipeline/issues)
