@@ -268,5 +268,5 @@ If you use this pipeline in your research, please cite:
 
 - **Author:** Akshansh Mishra
 - **Email:** akshansh@aifablab.com
-- **GitHub:** [@yourusername](https://github.com/akshansh11)
+- **GitHub:** [@akshansh11](https://github.com/akshansh11)
 - **Issues:** [GitHub Issues](https://github.com/akshansh11/video-segmentation-pipeline/issues)
